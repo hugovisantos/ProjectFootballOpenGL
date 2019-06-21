@@ -1,0 +1,8 @@
+﻿  ProjectFootballOpenGL.cpp
+C:\Users\Hugo\Documents\ProjectFootballOpenGL\ProjectFootballOpenGL\ProjectFootballOpenGL.cpp(115,27): warning C4244:  '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\Hugo\Documents\ProjectFootballOpenGL\ProjectFootballOpenGL\ProjectFootballOpenGL.cpp(116,28): warning C4244:  '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\Hugo\Documents\ProjectFootballOpenGL\ProjectFootballOpenGL\ProjectFootballOpenGL.cpp(117,29): warning C4244:  '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\Hugo\Documents\ProjectFootballOpenGL\ProjectFootballOpenGL\ProjectFootballOpenGL.cpp(118,26): warning C4244:  '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\Hugo\Documents\ProjectFootballOpenGL\ProjectFootballOpenGL\ProjectFootballOpenGL.cpp(135,2): error C3861:  'DrawCircle': identifier not found
+C:\Users\Hugo\Documents\ProjectFootballOpenGL\ProjectFootballOpenGL\ProjectFootballOpenGL.cpp(136,25): error C2664:  'void glutDisplayFunc(void (__cdecl *)(void))': cannot convert argument 1 from 'void (__cdecl *)(float,float,float,int)' to 'void (__cdecl *)(void)'
+C:\Users\Hugo\Documents\ProjectFootballOpenGL\ProjectFootballOpenGL\ProjectFootballOpenGL.cpp(136,18): message :  None of the functions with this name in scope match the target type
